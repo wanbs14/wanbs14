@@ -10,7 +10,7 @@ J'aime créer des applications interactives et partager mes projets pour la comm
 - 🌱 J'apprends : **JavaScript avancé, TypeScript, React, Node.js**
 - 💬 N'hésitez pas à me contacter pour collaborer !
 - 🌐 Portfolio : [guns.lol](https://guns.lol/ayao)
-- 👨‍💻 Langues : Français 🇫🇷 | Anglais 🇬🇧
+- 👨‍💻 Langues : Français 🇫🇷 | Anglais 🇬🇧/🇺🇸
 
 ---
 
