@@ -41,7 +41,7 @@ Un jeu du serpent rétro en **HTML, CSS et JavaScript**, avec interface néon et
 
 ## 🛠️ Langages les plus utilisés
 
-![Langages GitHub de Wanbs14](https://github-readme-stats.vercel.app/api/top-langs/?username=wanbs14&theme=radical&langs_count=10&layout=default)
+![Langages GitHub de Wanbs14](https://github-readme-stats.vercel.app/api/top-langs/?username=wanbs14&layout=compact&theme=radical)
 
 ---
 
