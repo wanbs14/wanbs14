@@ -28,7 +28,7 @@ J'aime créer des applications interactives et partager mes projets pour la comm
 ## 📂 Projets phares
 
 ### [Retro-Snake](https://github.com/wanbs14/Retro-Snake)
-Un jeu du serpent rétro en **HTML, CSS et JavaScript**, avec interface néon et score local sauvegardé.  
+Snake mais en mode rétro en **HTML, CSS et JavaScript**, avec interface néon et score local sauvegardé.  
 **Tech :** HTML, CSS, JS
 
 ---
